@@ -3,7 +3,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 
-# test
+# testing
 KV = '''
 Label:
     text: 'pretty! \\nAnimation by yosif (https://lottiefiles.com/yoz)\\nAvailable at https://lottiefiles.com/42369-weather-wind'
